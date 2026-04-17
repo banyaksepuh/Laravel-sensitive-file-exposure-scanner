@@ -64,7 +64,7 @@ USAGE
 ```bash
 $ python scan.py -l list.txt
 ```
-⚡ Advanced Usage with thread
+⚡ Advanced Usage with threads
 ```bash
 $ python scan.py -l targets.txt -t 10
 ```
